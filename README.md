@@ -1,0 +1,1 @@
+This project is a simple full-stack web application built using Node.js and React. The backend provides a REST API that returns a hardcoded list of facts in JSON format. The React frontend fetches and displays these facts. The application is deployed on AWS and is publicly accessible.
